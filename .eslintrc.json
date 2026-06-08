@@ -1,4 +1,5 @@
-{
+{ 
+      "ignorePatterns": ["public/"],
      "rules": {
       "import/no-extraneous-dependencies": "off",
         "import/prefer-default-export": "off"
